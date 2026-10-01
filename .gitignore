@@ -1,8 +1,24 @@
 node_modules/
-build/
 dist/
 coverage/
-.DS_Store
 *.log
 .env*
 !.env.example
+.DS_Store
+Thumbs.db
+
+# Android & Gradle
+.gradle/
+build/
+app/build/
+*.apk
+*.aab
+local.properties
+.idea/
+*.iml
+.cxx/
+
+# Gradle wrapper files must be committed
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+
