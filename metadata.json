@@ -1,0 +1,8 @@
+{
+  "name": "Nahid jr",
+  "description": "Transform long-form videos into viral Shorts, Reels, and TikToks with AI moment detection, smart vertical reframing, animated captions, and a full video editor. 100% free with no watermarks or limits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
